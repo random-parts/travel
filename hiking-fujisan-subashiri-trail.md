@@ -2,8 +2,8 @@
 headline: 'Hiking Fujisan: Subashiri Trail'
 date: 2017-07-25
 category: travel
-modified: 2018-02-07
-strava: https://www.strava.com/activities/1100766817
+modified: 2018-02-014
+strava: https://www.strava.com/activities/1100766817/embed/ebc219316db42d41e3e7c4578684c2cf52ccf5ec
 tags:
   - hiking
 ---
