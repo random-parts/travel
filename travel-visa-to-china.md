@@ -8,7 +8,7 @@ tags:
 
 > _I used the Consulate-General of The People's Republic of China - Houston in the information below. Check the Embassy/Consulate that [serves your location]_
 
-US Citizens traveling to mainland China will need to apply for a visa. For a **tourist visa**, you will need to apply for the [L visa] at the Embassy or Consulate that serves your state. The are visa agencies that will take care of this for you, if you don't mind mailing your passport to some random agency you found from a [DuckDuckGo] search. Plus, adding about $150-200 on top of the $140 visa fee.
+US Citizens traveling to mainland China will need to apply for a visa. For a **tourist visa**, you will need to apply for the [L visa] at the Embassy or Consulate that serves your state. There are visa agencies that will take care of this for you, if you don't mind mailing your passport to some random agency you found from a [DuckDuckGo] search. Plus, adding about $150-200 on top of the $140 visa fee.
 
 
 ### **Paperwork: Tourist Visa**
