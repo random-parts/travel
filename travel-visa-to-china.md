@@ -1,5 +1,5 @@
 ---
-headline: 'Travel visa to china'
+headline: 'Travel visa to China'
 date: 2018-02-06
 category: travel
 tags:
